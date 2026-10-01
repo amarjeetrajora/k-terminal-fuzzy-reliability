@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "Modeling K-Terminal Network Reliability Under Uncertainty Using Fuzzy Arithmetic"
+type: software
+authors:
+  - family-names: "Rajora"
+    given-names: "Amarjeet"
+  - family-names: "Baghel"
+    given-names: "Anurag Singh"
+    name-particle: "Dr."
+  - family-names: "Singh"
+    given-names: "Isha"
+license: MIT
+repository-code: "https://github.com/<your-username>/kterminal-fuzzy-reliability"
+preferred-citation:
+  type: conference-paper
+  title: "Modeling K-Terminal Network Reliability Under Uncertainty Using Fuzzy Arithmetic"
+  authors:
+    - family-names: "Rajora"
+      given-names: "Amarjeet"
+    - family-names: "Baghel"
+      given-names: "Anurag Singh"
+    - family-names: "Singh"
+      given-names: "Isha"
+  collection-title: "13th International Conference on Microelectronics, Circuits and Systems (Micro2026)"
+  year: 2026
